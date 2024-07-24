@@ -9,6 +9,8 @@ const current0Element = document.getElementById('current--0');
 const current1Element = document.getElementById('current--1');
 const diceElement = document.querySelector('.dice');
 
+console.log(diceElement);
+
 const btnNew = document.querySelector('.btn--new');
 const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
